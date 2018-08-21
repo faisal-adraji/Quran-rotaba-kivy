@@ -4,6 +4,9 @@ simple app for memorizing ayat order in pc and mobile
 
 ![demo](demo.png)
 
+## download
+
+https://archive.org/download/QuranRotaba/Quran-rotaba-0.1.apk
 
 ## utilities used
 
